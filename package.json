@@ -26,13 +26,13 @@
 		"dist"
 	],
 	"dependencies": {
-		"@konceiver/kv": "^1.0.0",
-		"pg-promise": "^10.8.1",
+		"@konceiver/kv": "^1.0.1",
+		"pg-promise": "^10.10.1",
 		"sql": "^0.78.0"
 	},
 	"devDependencies": {
 		"@konceiver/kv-test-suite": "^1.0.0",
-		"@konceiver/tease": "^2.0.0"
+		"@konceiver/tease": "^2.0.1"
 	},
 	"types": "dist/index"
 }
