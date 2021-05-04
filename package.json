@@ -27,7 +27,7 @@
 	],
 	"dependencies": {
 		"@konceiver/kv": "^1.0.1",
-		"pg-promise": "^10.10.1",
+		"pg-promise": "^10.10.2",
 		"sql": "^0.78.0"
 	},
 	"devDependencies": {
